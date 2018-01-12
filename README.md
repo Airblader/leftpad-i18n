@@ -20,6 +20,7 @@ Of course, the true power of leftpad-i18n comes into play with the additional `r
 
 ```
 leftPad('Foo', 5, ' ', true); // 'Foo  '
+leftPad('Foo', 5, null, true); // 'Foo  '
 ```
 
 ## Is this serious?
