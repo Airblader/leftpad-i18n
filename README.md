@@ -1,4 +1,4 @@
-# leftpad-i18n
+# leftpad-i18n [![npm version](https://badge.fury.io/js/leftpad-i18n.svg)](https://badge.fury.io/js/leftpad-i18n)
 
 ## What is this?
 
