@@ -1,0 +1,14 @@
+{
+  "name": "leftpad-i18n",
+  "version": "1.0.0",
+  "description": "Internationalized leftpad",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "leftpad",
+    "javascript",
+    "i18n"
+  ],
+  "author": "Ingo Bürk",
+  "license": "MIT"
+}
