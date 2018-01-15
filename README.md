@@ -25,9 +25,7 @@ leftPad('Foo', 5, null, true); // 'Foo  '
 
 ## Is this serious?
 
-Of course.
-
-;-)
+Yes.
 
 # License
 
